@@ -35,7 +35,8 @@ We save the trained ML model in our Drive, so that we can quickly load it to do 
 ### 5. GUI Code
 
 After running the project, the GUI code allows users to capture an image of a leaf using their webcam. The captured image is then processed through Sobel edge detection and leaf segmentation before being classified by the loaded machine learning model.
-<img width="1486" alt="Screenshot 2023-12-17 at 12 27 28 PM" src="https://github.com/MHC-FA23-CS341CV/computer-vision-final-project-climateteam/assets/93749279/7d9e561e-571a-4d70-8990-03795996fe89">
+<img width="1199" alt="Screenshot 2023-12-17 at 9 54 40 PM" src="https://github.com/MHC-FA23-CS341CV/computer-vision-final-project-climateteam/assets/93749279/220e1041-594b-4920-bda0-c8370ecd5078">
+
 
 ## Data Used
 
