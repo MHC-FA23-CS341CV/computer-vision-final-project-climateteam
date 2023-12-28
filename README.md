@@ -1,8 +1,8 @@
-# Leaf Doctors - Computer Vision Project
+# Leaf Doctors - COMSC 341-CV Computer Vision Final Project
 
 ## Project Description
 
-Welcome to Leaf Doctors, a computer vision project developed as the final assignment for COMSC 341-CV (Computer Vision) course. The goal of Leaf Doctors is to assist users in determining the health status of a leaf captured through images. The project achieves this by employing Sobel edge detection for image enhancement, leaf segmentation for isolating the leaf from the background, and a machine learning model for health classification.
+Welcome to Leaf Doctors, a computer vision project developed as the final assignment for COMSC 341-CV (Computer Vision) course taught by Professor Melody Su. The goal of Leaf Doctors is to assist users in determining the health status of a leaf captured through images. The project achieves this by employing Sobel edge detection for image enhancement, leaf segmentation for isolating the leaf from the background, and a machine learning model for health classification.
 
 ## Team Information
 
@@ -46,4 +46,6 @@ The project utilizes data from the following source:
 
 - **Data Source:** [Mendeley - Leaf Image Dataset](https://data.mendeley.com/datasets/t6j2h22jpx/1) (ver. 111223)
 
+## Interactive Webcam Code
+The interactive webcam code portion is taken from https://github.com/theAIGuysCode/colab-webcam 
 
